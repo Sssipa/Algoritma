@@ -1,3 +1,5 @@
+#Sifa Sahira
+#F55123059
 #Merge Sort
 def merge_sort(arr):
     if len(arr) > 1:
